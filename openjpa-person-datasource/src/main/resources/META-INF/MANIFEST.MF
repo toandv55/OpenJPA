@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: openjpa-person-datasource-mysql
+Bundle-SymbolicName: openjpa-person-datasource-mysql
+Bundle-Version: 1.0.1
+Import-Package: javax.sql,
+ com.mysql.jdbc.jdbc2.optional

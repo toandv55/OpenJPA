@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: openjpa-person-api
+Bundle-SymbolicName: openjpa-person-api
+Bundle-Version: 1.0.0
+Export-Package: openjpa.person.api;version="1.0.0"
